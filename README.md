@@ -34,6 +34,7 @@ Project Description:
   system call.
   
   How to Run:
+  
     1) Download all the provided files.
     2) Run the Makefile by typing "Make" in your projecct path.
     3) image-01 is a disk image that needs to be tranformed into jpg images. To do so, run "./runscan image-01 [output folder]" and replace [output folder]
